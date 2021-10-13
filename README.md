@@ -2,6 +2,8 @@
 ## Trabajo individual entregable de base de datos
 
 - Base de datos relacional uno a muchos, muchos a uno y muchos a muchos
+- Diagrama de flujos
+- Ejemplo de consulta relacionando todas las tablas
 
 #### Diagrama de flujos
 
