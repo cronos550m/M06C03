@@ -19,6 +19,7 @@ INNER JOIN notas ON notascategorias.idNotas = notas.id
 INNER JOIN usuarios ON notas.id = usuarios.idNotas
 ```
 
+![](https://github.com/cronos550m/M06C03/blob/ffc77938e2e925a50bc44b51cc92bc66921ab605/M06C03/Consulta.jpg)
 
 ### Links
 
